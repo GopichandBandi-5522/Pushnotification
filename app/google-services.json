@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "98417198355",
+    "project_id": "megamax-dev-aviation",
+    "storage_bucket": "megamax-dev-aviation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98417198355:android:c437561e99226622d306e6",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98417198355-5l43rikl0dnk831rephua86l5oo4k57o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUQGns2qwkMq3YrXOPJzhgH-s_Z_0e-ik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98417198355-5l43rikl0dnk831rephua86l5oo4k57o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
